@@ -1,0 +1,4 @@
+# MITRE ATT&CK FRAMEWORK
+Literature review written for EEN.650.683 Cybersecurity Risk Management, Spring 2022.
+
+Emulating real world adversary scenarios and injecting real-world inspired activity into the network rapidly helps improve an organization’s ability to detect threats. Adversary emulation is a sort of red red team team engagement in which mimics known threats by using threat intelligence to determine the red team's activities and behaviors. The purpose of this document is to discern the MITRE ATT&CK framework (The MITRE Corporation, 2015) which is a globally accessible knowledge base of adversarial techniques that can be used against specific platforms. This report focuses on the Tactics Techniques and Procedures used by HOLMIUM, a suspected Iranian threat group and develops mapping to the MITRE ATT&CK matrix.
